@@ -1,0 +1,43 @@
+main {
+	font-size: 0;
+}
+.container {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid black;
+}
+.center {
+	height:
+	width:
+}
+.top {
+	width: 50%;
+	height: 200px;
+}
+.bot {
+	width: 33.33%;
+	height: 300px;
+}
+.box {
+	border: 1px solid black;
+	display: inline-block;
+}
+.center {
+	text-align: center;
+}
+.green {
+	background-color: green;
+}
+.blue {
+	background-color: blue;
+}
+.grey {
+	background-color: grey;
+}
+.yellow {
+	background-color: yellow;
+}
+.black	{
+	background-color: black;
+}
